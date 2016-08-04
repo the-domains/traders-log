@@ -6,9 +6,9 @@ color:
   saturation: 0.5995402517728508
   rhythmicContrast: 0.843316801590845
   brandColors:
-    - '#9D2D3C'
-    - '#DDE4DD'
-    - '#BCAB47'
-    - '#6B574B'
-    - '#160600'
+    - '#FEFFFE'
+    - '#ADADAD'
+    - '#D81E2E'
+    - '#008124'
+    - '#000000'
 name: Traders Log
