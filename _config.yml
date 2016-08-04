@@ -1,0 +1,14 @@
+layout_spectrum: 0.27186332759447396
+typography_spectrum: 0.6955977834295481
+color:
+  brandStrength: 0.5112499038223177
+  lightness: 0.9518385846167803
+  saturation: 0.5995402517728508
+  rhythmicContrast: 0.843316801590845
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+name: Traders Log
